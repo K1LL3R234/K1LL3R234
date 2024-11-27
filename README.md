@@ -18,11 +18,11 @@
 <!--Contributions-->
 <a href="http://www.github.com/K1LL3R234"><img src="https://github-readme-streak-stats.herokuapp.com/?user=K1LL3R234&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-## Top languages
+<!--## Top languages
 
 <!--Top languages-->
-<a href="https://github.com/K1LL3R234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1LL3R234&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<!--<a href="https://github.com/K1LL3R234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1LL3R234&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+-->
 ## Activity graph
 
 <!--Activity graph-->
@@ -105,11 +105,6 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://www.postgresql.org/" target="_blank">
-                <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
-            </a>
-        </td>
-        <td align="center" width="96">
             <a href="https://www.android.com/" target="_blank">
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
             </a>
@@ -146,13 +141,18 @@
                 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="RaspberryPi" width="40" height="40" />
             </a>
         </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://www.postgresql.org/" target="_blank">
+                <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="40" height="40" />
+            </a>
+        </td>
         <td align="center" width="96">
             <a href="https://www.php.net/" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg" alt="PHP" width="40" height="40" />
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://npmjs.com/" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="NPM" width="40" height="40" />

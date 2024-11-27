@@ -1,3 +1,14 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico+Code&pause=1000&color=7a49a5&center=true&vCenter=true&random=true&width=500&lines=Welcome+To+My+Github+Profile!" alt="Typing SVG"/>
+</div>
+<div align='center'>
+  <h3> 🌐 Let's Stay Connected <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px" alt="Hand Shake Emoji"/>
+  </h3>
+    <a href="https://www.linkedin.com/in/chris-posthumus/">
+      <img src="https://img.icons8.com/nolan/64/linkedin.png" alt="LinkedIn"/>
+    </a>
+</div>
+
 ## Animation
 
 <!--Animation-->
@@ -21,7 +32,7 @@
 <!--## Top languages
 
 <!--Top languages-->
-<!--<a href="https://github.com/K1LL3R234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1LL3R234&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!--<a href="https://github.com/K1LL3R234" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=K1LL3R234&private=true&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 -->
 ## Activity graph
 

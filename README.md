@@ -166,17 +166,17 @@
     </tr>
 </table>
 
-## Snake 🐍
+<!--## Snake 🐍
 
 <!-- Snake --> 
-<picture>
+<!--<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/K1LL3R234/K1LL3R234/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/K1LL3R234/K1LL3R234/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/K1LL3R234/K1LL3R234/output/github-contribution-grid-snake.svg">
 </picture>
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
-
+-->
 <!-- Footer -->
 <p align="center">  
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>

@@ -139,7 +139,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://firebase.google.com/" target="_blank">
-                <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" />
+                <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" />
             </a>
         </td>
         <td align="center" width="96">
